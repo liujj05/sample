@@ -42,3 +42,12 @@ Debug/vc141.pdb
 *.idb
 *.obj
 *.tlog
+.vs/sample/v15/.suo
+.vs/sample/v15/Browse.VC.db
+*.log
+*.db
+*.ilk
+*.log
+*.obj
+*.pch
+*.pdb

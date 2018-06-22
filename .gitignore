@@ -37,3 +37,8 @@ Debug/vc141.pdb
 *.exe
 Debug/vc141.pdb
 *.idb
+.gitattributes
+*.pdb
+*.idb
+*.obj
+*.tlog
